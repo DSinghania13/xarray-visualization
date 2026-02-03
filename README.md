@@ -61,7 +61,7 @@ xarray-visualization/
 │   └── BMD_3D.png
 │
 ├── report/
-│   └── SFD_BMD_Report.pdf
+│   └── Report.pdf
 │
 ├── requirements.txt
 ├── README.md

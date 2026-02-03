@@ -101,14 +101,12 @@ xarray-sfd-bmd-visualization/
 
 ```
 node_id → (x, y, z)
-
 ```
 
 **`element.py`** defines FEM connectivity:
 
 ```
 element_id → (start_node, end_node)
-
 ```
 
 *Figure 2: Node coordinates and element connectivity. All plots use actual geometry — no assumed or artificial coordinates.*

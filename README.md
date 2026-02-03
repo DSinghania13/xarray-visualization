@@ -40,7 +40,7 @@ The project demonstrates:
 ## 📁 Repository Structure
 
 ```text
-xarray-sfd-bmd-visualization/
+xarray-visualization/
 │
 ├── data/
 │   ├── screening_task.nc

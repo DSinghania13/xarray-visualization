@@ -192,7 +192,7 @@ python task2_3d.py
 
 A detailed PDF report is available, covering dataset inspection, code logic, plot construction, and verification against marking criteria.
 
-📄 **Read the Report:** [report/SFD_BMD_Report.pdf](https://www.google.com/search?q=report/SFD_BMD_Report.pdf)
+📄 [**Read the Report**](https://drive.google.com/file/d/1w-7hZmP-Bsx0Rbk9SK_vDXiOYpQ2Eyd0/view?usp=sharing)
 
 ---
 

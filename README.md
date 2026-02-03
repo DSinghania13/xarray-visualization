@@ -91,6 +91,9 @@ xarray-visualization/
 * `_i` → Start node of element
 * `_j` → End node of element
 
+  
+![dataset_visualization](https://github.com/user-attachments/assets/8b45906c-2d71-4bc8-a50e-d46fa1bea8f7)
+
 *Figure 1: Xarray dataset structure and force components*
 
 ---
@@ -108,6 +111,8 @@ node_id → (x, y, z)
 ```
 element_id → (start_node, end_node)
 ```
+
+![node_element_conectivity](https://github.com/user-attachments/assets/ea2b8c48-efcd-46ad-a752-45fa45dde4e3)
 
 *Figure 2: Node coordinates and element connectivity. All plots use actual geometry — no assumed or artificial coordinates.*
 
@@ -132,10 +137,13 @@ Generates **2D Shear Force (SFD)** and **Bending Moment (BMD)** diagrams for the
 * **BMD:** Linear interpolation between nodes.
 * **Sign Convention:** Preserved exactly from the dataset.
 
-| SFD | BMD |
-| --- | --- |
-|  |  |
-| *Figure 3: 2D Shear Force Diagram* | *Figure 4: 2D Bending Moment Diagram* |
+![SFD_2D](https://github.com/user-attachments/assets/b04a57f5-6e24-4efb-95a6-3d83cfb8d0dd)
+
+*Figure 3: 2D Shear Force Diagram*
+
+![BMD_2D](https://github.com/user-attachments/assets/44a6fb54-d285-4954-aa3f-41c0bdfec316)
+
+*Figure 4: 2D Bending Moment Diagram*
 
 ### 3️⃣ `task2_3d.py` — Task-2 (3D MIDAS-Style Plots)
 
@@ -148,7 +156,11 @@ Generates **3D SFD & BMD** for **all five longitudinal girders**.
 * **Heat-map Coloring:** Jet colormap (Blue → Red) based on magnitude.
 * **Global Scaling:** Auto-scaled to maintain visual proportions.
 
+![SFD_3D](https://github.com/user-attachments/assets/6aae3e99-d082-45d2-af98-99188cb22237)
+
 *Figure 5: 3D Shear Force Diagram (SFD) — All Girders*
+
+![BMD_3D](https://github.com/user-attachments/assets/adc02ef5-8ec7-47d9-a4ef-38a52f099afc)
 
 *Figure 6: 3D Bending Moment Diagram (BMD) — All Girders*
 

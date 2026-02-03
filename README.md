@@ -21,7 +21,7 @@
 
 A short screen-recorded demonstration of the code execution and generated plots is available below:
 
-> 🔗 **YouTube (Unlisted) Video Link:** > [Paste your YouTube Link Here]
+> 🔗 **YouTube (Unlisted) Video Link:** [Click here](https://youtu.be/beIV7DoYAWo)
 
 ---
 
@@ -112,7 +112,7 @@ node_id → (x, y, z)
 element_id → (start_node, end_node)
 ```
 
-![node_element_conectivity](https://github.com/user-attachments/assets/ea2b8c48-efcd-46ad-a752-45fa45dde4e3)
+![node_element_conectivity](https://github.com/user-attachments/assets/954efd03-b633-4553-9b58-495b23503677)
 
 *Figure 2: Node coordinates and element connectivity. All plots use actual geometry — no assumed or artificial coordinates.*
 

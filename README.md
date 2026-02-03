@@ -9,7 +9,7 @@
 - **Organization:** Osdag (FOSSEE, IIT Bombay)
 - **Task Type:** Technical Screening Assignment  
 - **Domain:** Structural Engineering / Software Development
-
+<br>
 
 - **Submitted by:** Divit Singhania
 - **Program:** B.Tech Computer Science (AI & ML)
@@ -30,10 +30,10 @@ A short screen-recorded demonstration of the code execution and generated plots 
 This repository contains Python scripts to generate **2D and 3D Shear Force Diagrams (SFD)** and **Bending Moment Diagrams (BMD)** from an **Xarray dataset**, closely replicating **MIDAS Civil post-processing visualizations**.
 
 The project demonstrates:
-- ✔ Correct use of **FEM element connectivity**
-- ✔ Accurate **node-based geometric reconstruction**
-- ✔ Preservation of **sign conventions from the dataset**
-- ✔ Professional-quality **2D and 3D structural plots**
+- Correct use of **FEM element connectivity**
+- Accurate **node-based geometric reconstruction**
+- Preservation of **sign conventions from the dataset**
+- Professional-quality **2D and 3D structural plots**
 
 ---
 
@@ -191,6 +191,7 @@ A detailed PDF report is available, covering dataset inspection, code logic, plo
 * **NumPy** – Numerical operations
 * **Plotly** – 2D & 3D visualization
 * **netCDF4** – Dataset backend
+* **Pandas** - Dataset visualization
 
 ---
 
@@ -220,3 +221,11 @@ A detailed PDF report is available, covering dataset inspection, code logic, plo
 ## 🏁 Conclusion
 
 This project demonstrates how **professional structural post-processing**—commonly available in commercial tools like MIDAS Civil—can be reproduced using **open-source Python libraries**, while maintaining engineering correctness, geometric fidelity, and visual clarity.
+
+---
+
+## 📜 License
+
+This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/), as required by FOSSEE for screening task submissions.
+
+---

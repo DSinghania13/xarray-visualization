@@ -1,6 +1,5 @@
 numpy
 pandas
 xarray
-matplotlib
 plotly
 netCDF4

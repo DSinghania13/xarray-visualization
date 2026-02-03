@@ -53,12 +53,12 @@ xarray-sfd-bmd-visualization/
 │   └── task2_3d.py
 │
 ├── figures/
-│   ├── fig1_xarray_structure.png
-│   ├── fig2_node_element_connectivity.png
-│   ├── fig3_2d_sfd.png
-│   ├── fig4_2d_bmd.png
-│   ├── fig5_3d_sfd.png
-│   └── fig6_3d_bmd.png
+│   ├── dataset_visualization.png
+│   ├── node_element_connectivity.png
+│   ├── SDF_2D.png
+│   ├── BMD_2D.png
+│   ├── SDF_3D.png
+│   └── BMD_3D.png
 │
 ├── report/
 │   └── SFD_BMD_Report.pdf

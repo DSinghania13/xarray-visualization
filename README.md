@@ -220,3 +220,12 @@ A detailed PDF report is available, covering dataset inspection, code logic, plo
 ## 🏁 Conclusion
 
 This project demonstrates how **professional structural post-processing**—commonly available in commercial tools like MIDAS Civil—can be reproduced using **open-source Python libraries**, while maintaining engineering correctness, geometric fidelity, and visual clarity.
+
+---
+
+## 📜 License
+
+This project is licensed under the  
+**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license, as required by FOSSEE for screening task submissions.
+
+🔗 https://creativecommons.org/licenses/by-sa/4.0/

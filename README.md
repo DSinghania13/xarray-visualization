@@ -30,10 +30,10 @@ A short screen-recorded demonstration of the code execution and generated plots 
 This repository contains Python scripts to generate **2D and 3D Shear Force Diagrams (SFD)** and **Bending Moment Diagrams (BMD)** from an **Xarray dataset**, closely replicating **MIDAS Civil post-processing visualizations**.
 
 The project demonstrates:
-- ✔ Correct use of **FEM element connectivity**
-- ✔ Accurate **node-based geometric reconstruction**
-- ✔ Preservation of **sign conventions from the dataset**
-- ✔ Professional-quality **2D and 3D structural plots**
+- Correct use of **FEM element connectivity**
+- Accurate **node-based geometric reconstruction**
+- Preservation of **sign conventions from the dataset**
+- Professional-quality **2D and 3D structural plots**
 
 ---
 

@@ -191,6 +191,7 @@ A detailed PDF report is available, covering dataset inspection, code logic, plo
 * **NumPy** – Numerical operations
 * **Plotly** – 2D & 3D visualization
 * **netCDF4** – Dataset backend
+* **Pandas** - Dataset visualization
 
 ---
 
